@@ -1,0 +1,3 @@
+/Users/muhan/myProject/singleModel/signalmodel/build/CMakeFiles/rebuild_cache.dir
+/Users/muhan/myProject/singleModel/signalmodel/build/CMakeFiles/edit_cache.dir
+/Users/muhan/myProject/singleModel/signalmodel/build/CMakeFiles/sig.dir

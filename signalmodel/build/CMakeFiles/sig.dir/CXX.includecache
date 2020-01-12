@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/muhan/myProject/singleModel/signalmodel/main.cpp
+signalmodel.h
+/Users/muhan/myProject/singleModel/signalmodel/signalmodel.h
+unistd.h
+-
+
+/Users/muhan/myProject/singleModel/signalmodel/signalmodel.cpp
+signalmodel.h
+/Users/muhan/myProject/singleModel/signalmodel/signalmodel.h
+
+/Users/muhan/myProject/singleModel/signalmodel/signalmodel.h
+pthread.h
+-
+string
+-
+stdio.h
+-
+
